@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Проверяем коммит");
         System.out.println("Проверяем коммит1");
         System.out.println("Проверяем коммит2");
+        System.out.println("Проверяем коммит3");
+
     }
 }
